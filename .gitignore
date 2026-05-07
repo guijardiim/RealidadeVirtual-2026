@@ -1,0 +1,39 @@
+# --- Pastas Geradas pelo Unity ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]tmp/
+/[Mm]emoryCaptures/
+
+# --- Arquivos de Solução do Visual Studio / VS Code ---
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.VC.db
+/.vscode/
+
+# --- Configurações de Usuário ---
+/[Uu]ser[Ss]ettings/
+
+# --- Crash Reports ---
+sysinfo.txt
+
+# --- Assets baixados (opcional) ---
+# Se quiser ignorar assets pesados da Asset Store, desmarque a linha abaixo:
+# /[Aa]ssets/AssetStoreTools*
+
+# --- OS específicos ---
+.DS_Store
+Thumbs.db
