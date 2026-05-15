@@ -27,9 +27,9 @@ O **Museu Histórico Interativo** é um aplicativo móvel em Realidade Virtual p
 ## 🔗 Links
 
 * **LINK YOUTUBE**
-* https://youtu.be/tooCOIBJIRM
+  https://youtu.be/tooCOIBJIRM
 
 * **Importante!**
-* O artigo se encontra dentro da pasta **DOCUMENTS**
+  O artigo se encontra dentro da pasta **DOCUMENTS**
 
 *Projeto desenvolvido como artigo e protótipo prático para o curso de Ciência da Computação – Unisagrado (Bauru/SP).*
