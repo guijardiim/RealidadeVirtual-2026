@@ -28,6 +28,8 @@ O **Museu Histórico Interativo** é um aplicativo móvel em Realidade Virtual p
 
 * **LINK YOUTUBE**
   https://youtu.be/tooCOIBJIRM
+* **LINK GOOGLE DRIVE - DOWNLOAD .APK**
+  https://drive.google.com/drive/folders/12Ca-mi0KQpNiiQNGRx1tk8isohkPYtA4?usp=sharing
 
 * **Importante!**
   O artigo se encontra dentro da pasta **DOCUMENTS**
